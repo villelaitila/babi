@@ -106,3 +106,14 @@ multiple files.  babi has a command mode (so you can quit it like vim
 ![](https://i.fluffy.cc/Rw8nZKFC3R36mNrV01fL2gk4rfwWn7wX.png)
 
 ![](https://i.fluffy.cc/FSD92ZVN4xcMFPv1V7gc0Xzk8TCQTgdg.png)
+
+### development
+
+in order to run tests, install `tmux`, e.g. in Ubuntu simply run `sudo apt install tmux`.
+
+#### running tests
+
+```bash
+py.test
+```
+
